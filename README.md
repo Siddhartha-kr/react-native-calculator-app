@@ -17,7 +17,7 @@ Here is a look at the application in action.
 
 | Initial State / Typing | Result Display |
 | :---: | :---: |
-| <img src="https://github.com/Siddhartha-kr/react-native-calculator-app/raw/main/screenshots/Screenshot 1.jpeg" width="300" alt="Calculator App Screenshot 1" /> | <img src="https://github.com/Siddhartha-kr/react-native-calculator-app)/raw/main/screenshots/Screenshot 2.jpeg" width="300" alt="Calculator App Screenshot 2" /> |
+| <img src="https://github.com/Siddhartha-kr/react-native-calculator-app/raw/main/screenshot_1.jpeg" width="300" alt="Calculator App Screenshot 1" /> | <img src="https://github.com/Siddhartha-kr/react-native-calculator-app/raw/main/screenshot_2.jpeg" width="300" alt="Calculator App Screenshot 2" /> |
 
 
 ##  Built With
